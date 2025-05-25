@@ -1,6 +1,6 @@
 # `data/`
 
-This folder contains the raw dataset files used in this project.
+This folder contains the raw dataset files used in this project. Since the files are large, they are not included in the repository. Instead, you can download them from [this link](http://cicresearch.ca/CICDataset/CIC-IDS-2017/Dataset/CIC-IDS-2017/CSVs/).
 
 ### Files:
 - Dataset 1: `Monday-WorkingHours.pcap_ISCX.csv`: Captures normal web traffic (no attacks).
