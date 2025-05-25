@@ -1,7 +1,7 @@
 import pandas as pd
 from matplotlib import pyplot as plt
 
-#Nothing changed just separating data from 
+#Nothing changed just separating data from raw
 
 wednesday_data = pd.read_csv('../data/raw_data/Wednesday-workingHours.pcap_ISCX_without_Cleansing.csv', engine = 'python')
 
