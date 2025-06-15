@@ -7,8 +7,7 @@ This is a major project for the WI2002 Data Literacy and AI course at ITB. It us
 
 ## Project Structure
 
-- `data/`: Raw dataset CSV files
-- `notebook/`: Jupyter notebooks for EDA and visualization
+- `data/`: Dataset CSV files
 - `script/`: Python scripts for automation
 - `output/`: Generated statistics and visual plots
 - `doc/`: Written reports and documentation
@@ -20,12 +19,6 @@ This is a major project for the WI2002 Data Literacy and AI course at ITB. It us
 pip install -r requirements.txt
 ```
 
-## Usage
-Run the Jupyter notebooks in the `notebook/` directory to explore the dataset and visualize network traffic patterns.
-
-```bash
-jupyter notebook notebook/
-```
 ## Acknowledgements
 
 1. 13524057 [Benedict Darrel Setiawan](https://github.com/BenedictD-RH)
